@@ -4,7 +4,6 @@ on:
       - main
 
 jobs:
-  run-pull:
     name: run-pull
     runs-on: ubuntu-latest
 
